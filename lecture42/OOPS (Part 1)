@@ -1,0 +1,21 @@
+In this lecture you will learn about OOPS (Object Oriented Programming)
+OOPS has been divided into 2 parts as it is a vast topic
+OOPS topics covered in this lecture :
+
+ 1. What is OOPS
+ 2. Classes & Objects
+ 3. Empty Class
+ 4. Access Modifiers
+ 5. Getter & Setter Function
+ 6. BTS of Objects
+ 7. Static vs Dynamic Allocation
+ 8. Constructor
+ 9. Default Constructor
+10. Parameterised Constructor
+11. this keyword
+12. Copy constructor
+13. Shallow & deep copy
+14. Assignment operator
+15. Destructor
+16. Static keyword
+17. Static Functions
