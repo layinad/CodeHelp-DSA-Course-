@@ -1,0 +1,27 @@
+In this lecture you will learn about the 4 pillars of OOPS
+Topics Discussed :
+
+ 1. Encapsulation
+      
+      - Full Encapsulation
+      - Why Encapsulation is needed
+      - Implementation
+      
+ 2. Inheritance
+  
+     - Implementation
+     - Acces modifiers & inheritance
+     - Types of Inheritance
+     - Single Inheritance
+     - Multi-Level Inheritance
+     - Multiple Inheritance
+     - Hierarchical Inheritance
+     - Hybrid Inheritance
+     - Inheritance Ambiguity
+     
+3. Polymorphism
+
+     - Compile Time Polymorphism
+     - Run Time Polymorphism 
+
+4. Abstraction
