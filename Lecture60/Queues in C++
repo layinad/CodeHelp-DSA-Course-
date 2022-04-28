@@ -1,0 +1,7 @@
+With this lecture we begin with Queue Data Structure which is based on the FIFO principle.
+FIFO stands for First In First Out.
+
+Few of the problems covered in this lecture :
+                     - Queue Implementation
+                     - Circular Queue
+                     - Doubly Ended Queue Implementation
