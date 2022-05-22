@@ -1,4 +1,4 @@
 Problems covered in this lecture : 
           
-          -  Construct a BT from Inorder/PreOrder traversal
-          -  Construct a BT from PreOrder/PostOrder traversal
+          -  Construct a Binary Tree from Inorder/PreOrder traversal
+          -  Construct a Binary Tree from PreOrder/PostOrder traversal
